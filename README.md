@@ -1,6 +1,6 @@
 
 ### Para correr el proyecto
-1. npm install
+1. npm install --legacy-peer-deps
 2. npm start
 
 ### Para crear un servidor auxiliar
